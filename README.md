@@ -4,4 +4,4 @@ I am currently contributing to the promotion of quality education through <a hre
 <br>
 A passionate Technical writer with the goals of explaining technical concept to users in a more friendly and understandable words. Read my writing <a href="https://www.clippings.me/users/dule_martins">here</a>
 <br>
-<a href="https://www.writethedocs.org/meetups>Writethedocs</a> Nigeria Community Organizer and Open source contributor 
+<a href="www.writethedocs.org/meetups>Writethedocs</a> Nigeria Community Organizer and Open source contributor 
